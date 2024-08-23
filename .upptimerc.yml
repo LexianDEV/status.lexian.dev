@@ -5,12 +5,15 @@ repo: status.lexian.dev # The name of this repository
 sites:
   - name: LexianDEV
     url: https://www.lexian.dev
-
+  - name: LexianAPP
+    url: https://app.lexian.dev
+  - name: LexianAI
+    url: https://ai.lexian.dev
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.lexian.dev
-  baseUrl: /status.lexian.dev
+  cname: status.lexian.dev
+  # baseUrl: /status.lexian.dev
   logoUrl: https://raw.githubusercontent.com/LexianDEV/status.lexian.dev/master/assets/logo.svg
   name: Uptime
   introTitle: "Welcome to **status.lexian.dev**"
