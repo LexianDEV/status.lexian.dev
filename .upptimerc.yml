@@ -5,14 +5,11 @@ repo: status.lexian.dev # The name of this repository
 sites:
   - name: LexianDEV
     url: https://www.lexian.dev
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.lexian.dev
+  # cname: status.lexian.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
