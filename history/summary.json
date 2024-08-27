@@ -4,18 +4,20 @@
     "url": "https://www.lexian.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.lexian.dev.ico",
     "slug": "lexian-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 198,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 345,
+    "timeDay": 687,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "LexianAPP",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 98,
+      "2024-08-27": 557,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
