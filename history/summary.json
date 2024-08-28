@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lexian.dev.ico",
     "slug": "lexian-dev",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 347,
-    "timeDay": 584,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
-    "dailyMinutesDown": {
-      "2024-08-27": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 335,
+    "timeDay": 574,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LexianAPP",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 181,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "time": 198,
+    "timeDay": 139,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 569,
+      "2024-08-28": 99,
+      "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
