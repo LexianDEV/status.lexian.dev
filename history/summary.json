@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lexian.dev.ico",
     "slug": "lexian-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 789,
-    "timeWeek": 423,
-    "timeMonth": 411,
-    "timeYear": 363,
+    "uptime": "98.80%",
+    "uptimeDay": "21.88%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "98.80%",
+    "time": 371,
+    "timeDay": 1158,
+    "timeWeek": 510,
+    "timeMonth": 433,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-10-26": 1
+      "2024-10-27": 113,
+      "2024-10-26": 1012
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.lexian.dev.ico",
     "slug": "lexian-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.78%",
+    "uptimeDay": "21.92%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "98.78%",
     "time": 239,
-    "timeDay": 103,
-    "timeWeek": 189,
+    "timeDay": 0,
+    "timeWeek": 199,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-27": 113,
+      "2024-10-26": 1011
     }
   }
 ]
