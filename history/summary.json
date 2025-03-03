@@ -4,10 +4,10 @@
     "url": "https://www.lexian.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.lexian.dev.ico",
     "slug": "lexian-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
     "time": 435,
@@ -16,6 +16,7 @@
     "timeMonth": 525,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2025-03-03": 1,
       "2024-10-28": 351,
       "2024-10-27": 1440,
       "2024-10-26": 1012
@@ -26,7 +27,7 @@
     "url": "https://app.lexian.dev",
     "icon": "https://icons.duckduckgo.com/ip3/app.lexian.dev.ico",
     "slug": "lexian-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 273,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2024-10-28": 351,
       "2024-10-27": 1440,
       "2024-10-26": 1011
