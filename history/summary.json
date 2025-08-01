@@ -58,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/goexport.lexian.dev.ico",
     "slug": "go-export",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.91%",
+    "uptimeDay": "88.22%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.91%",
     "time": 212,
     "timeDay": 237,
     "timeWeek": 242,
     "timeMonth": 208,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-07-31": 0,
+      "2025-08-01": 155,
+      "2025-07-31": 14,
       "2025-03-04": 34
     }
   }
