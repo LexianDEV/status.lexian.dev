@@ -35,17 +35,17 @@
     "url": "https://app.lexian.dev",
     "icon": "https://icons.duckduckgo.com/ip3/app.lexian.dev.ico",
     "slug": "lexian-app",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.60%",
     "time": 499,
-    "timeDay": 186,
-    "timeWeek": 249,
-    "timeMonth": 243,
-    "timeYear": 618,
+    "timeDay": 172,
+    "timeWeek": 237,
+    "timeMonth": 240,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2025-09-02": 35,
       "2025-09-20": 38,
@@ -61,7 +61,7 @@
       "2026-03-17": 32,
       "2026-05-08": 55,
       "2026-06-03": 497,
-      "2026-07-28": 0
+      "2026-07-28": 458
     }
   },
   {
